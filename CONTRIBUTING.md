@@ -50,4 +50,6 @@ Acknowledgment and Recognition
 - Celebrate your contribution being merged and acknowledge your valuable contribution.
 Be proud of your efforts and encourage others to contribute to the project.
 Recognize and appreciate the work of others who helped throughout the contribution process.
-Remember, every open-source project may have its own specific guidelines and processes. It's crucial to read and adhere to the project's documentation and instructions, and maintain open and respectful communication with the project's community. Happy contributing!
+Remember, every open-source project may have its own specific guidelines and processes. It's crucial to read and adhere to the project's documentation and instructions, and maintain open and respectful communication with the project's community.
+
+Happy contributing!
