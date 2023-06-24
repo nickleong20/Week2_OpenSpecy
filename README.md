@@ -19,3 +19,10 @@ Please note that I strive to maintain a professional and respectful environment.
 If you encounter any issues or want to contribute to the project, please check the [Issues](https://github.com/yourusername/your-repo/issues) section for bug reports and feature requests or consider submitting a pull request. Your contributions are always appreciated!
 
 Thank you once again for your interest in the project. I look forward to hearing from you and collaborating with the community.
+
+## Contributions
+We encourage contributions of all kinds!
+
+Please refer to our [contributing guidelines](https://github.com/nickleong20/Week2_OpenSpecy/blob/main/CONTRIBUTING.md) on how to contribute to this project!
+
+Also, we kindly ask that you abide by our [code of conduct](). 
