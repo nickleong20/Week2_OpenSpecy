@@ -19,8 +19,6 @@ Thank you for your interest in my project! If you have any questions, suggestion
 
 Please maintain a professional and respectful environment. When you contact me, please follow the project's code of conduct and provide clear and concise information about your question or feedback. 
 
-If you encounter any issues or want to contribute to the project, please check the [Issues](https://github.com/yourusername/your-repo/issues) section for bug reports and feature requests or consider submitting a pull request. Your contributions are always appreciated!
-
 Thank you once again for your interest in the project. I look forward to hearing from you and collaborating with the community.
 
 ## Contributions
