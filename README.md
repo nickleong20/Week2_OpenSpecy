@@ -6,7 +6,7 @@ Open Specy is a tool that can analyze plastic and environmental samples and then
 The [Open Specy website](https://openanalysis.org/openspecy/) reads spectral data files (.asp, .csv, .jdx, .spc, .spa, and .0) and displays them on an easy-to-read spectra plot. It then allows users to preprocess their data using sliders that control smoothing, baseline correction, and spectral range. Once done, the site compares the plots to Raman or FTIR spectra and displays the most similar plots from its library. The results contain Pearson's r correlation values to show how correlated the plots are and the material, sample ID, and organization/affiliations. 
 
 ## Open Specy Use
-A standard operating procedure is found [here](https://htmlpreview.github.io/?https://github.com/wincowgerDEV/OpenSpecy-package/blob/main/vignettes/sop.html). Please refer to the [code folder](https://github.com/nickleong20/Week2_OpenSpecy/tree/main/Code) for spectrometry analysis.
+Standard operating procedure is found [here](https://htmlpreview.github.io/?https://github.com/wincowgerDEV/OpenSpecy-package/blob/main/vignettes/sop.html). Please refer to the [code folder](https://github.com/nickleong20/Week2_OpenSpecy/tree/main/Code) for spectrometry analysis.
 
 ## Get in Touch
 
