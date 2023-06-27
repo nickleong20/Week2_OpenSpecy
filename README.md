@@ -11,7 +11,7 @@ Thank you for your interest in my project! If you have any questions, suggestion
 
 - **Email:** [nick@mooreplasticresearch.org](mailto:nick@mooreplasticresearch.org)
 - **Website:** [www.mooreplasticresearch.org](https://mooreplasticresearch.org/)
-- **Discussion Board:** [Link to Board](https://github.com/nickleong20/Week2_OpenSpecy/discussions/1)
+- [**Discussion Board Link**](https://github.com/nickleong20/Week2_OpenSpecy/discussions/1)
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/MoorePlasticRes?style=social)](https://twitter.com/MoorePlasticRes)
 
