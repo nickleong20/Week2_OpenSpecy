@@ -81,6 +81,21 @@ get_lib()
 spec_lib <- load_lib()
 
 ## Read sample spectrum (Correct for missing header)
-ftir_pav <- read_text(read_extdata("ftir_pva_without_header.csv"), header = FALSE)
+ftir_pva <- read_text(read_extdata("ftir_pva_without_header.csv"), header = FALSE)
 
-##
+## Adjust spectral intensity
+ftir_pva_adj <- ftir_pva %>%
+  adj_intens()
+
+## Smooth Spectrum 
+ftir_pva_smooth <- ftir_pva_adj %>% 
+  smooth_intens() 
+  
+## Background-correct Spectrum  
+  ftir_pva_bgc <- ftir_pva_smooth %>% 
+  subtr_bg()
+
+# Match spectrum with library and retrieve meta data
+match_spec(ftir_pva_bgc, library = spec_lib, which = "ftir")
+
+find_spec(sample_name == 598, library = spec_lib, which = "ftir")
